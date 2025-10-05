@@ -1,0 +1,208 @@
+{
+  "Projects": [
+     
+   
+    {
+      "show": true,
+      "title": "RBAC Task Manager",
+      "desc": [
+        "A sophisticated task management application with role-based access control (RBAC) for teams and organizations. The system allows administrators to define user roles, assign tasks with specific permissions, and track progress across projects.",
+        "Features include task assignment, progress tracking, file attachments, comments, and real-time notifications. The application supports multiple user roles (Admin, Manager, User) with granular permissions for task management.",
+        "Built with a focus on security and scalability, the application includes comprehensive audit logging, team collaboration features, and responsive design for seamless use across desktop and mobile devices."
+      ],
+      "year": "2024",
+      "preview": "https://rolegate.netlify.app/",
+      "code": "https://github.com/kushwahaPrashant24/RBAC",
+      "thumbnail": "/image/setup.jpg",
+      "images": [
+      
+      ],
+      "tech": [
+        "React",
+        "TypeScript",
+        "Tailwind CSS"
+    
+      ],
+      "slug": "rbac-task-manager",
+      "category": [1, 2]
+    },
+    {
+      "show": true,
+      "title": "ChitChat - Real-time Chat App",
+      "desc": [
+        "A modern real-time chat application supporting instant messaging, file sharing, and group conversations. Built with a focus on performance and user experience, featuring smooth animations and intuitive interface design.",
+        "The application includes features such as online status indicators, message read receipts, file uploads with progress tracking, and emoji reactions. Users can create multiple chat rooms and manage their conversations efficiently.",
+        "Implemented with state management using Zustand for optimal performance and Multer for handling file uploads. The application demonstrates advanced real-time communication capabilities with WebSocket connections."
+      ],
+      "year": "2024",
+      "preview": "",
+      "code": "https://github.com/kushwahaPrashant24/ChitChat",
+      "thumbnail": "/image/setup.jpg",
+      "images": [
+       
+      ],
+      "tech": [
+        "React",
+        "Node.js",
+        "Socket.IO",
+        "MongoDB",
+        "Zustand",
+        "Multer",
+        "Tailwind CSS"
+      ],
+      "slug": "chitchat",
+      "category": [1, 2]
+    },
+    {
+      "show": true,
+      "title": "3D Portfolio Website",
+      "desc": [
+        "An immersive 3D portfolio website built with Three.js and React, featuring interactive 3D elements, smooth animations, and a modern spatial design. The portfolio showcases projects in an engaging 3D environment with particle effects and dynamic lighting.",
+        "Includes 3D models, interactive camera controls, and responsive design that works across all devices. The website demonstrates advanced frontend skills and creative web development techniques using WebGL and 3D graphics in the browser."
+      ],
+      "year": "2024",
+      "preview": "https://prashant3d.netlify.app/",
+      "code": "https://github.com/kushwahaPrashant24/3D-Portfolio",
+     "thumbnail": "/image/setup.jpg",
+      "images": [
+      
+      ],
+      "tech": [
+        "React",
+        "Three.js",
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "WebGL",
+        "Vite"
+      ],
+      "slug": "3d-portfolio",
+      "category": [1]
+    },
+    {
+      "show": true,
+      "title": "QR Code Generator",
+      "desc": [
+        "A responsive QR code generator application that allows users to create custom QR codes for URLs, text, contact information, and WiFi credentials. Features real-time preview and multiple customization options.",
+        "Users can customize QR code colors, add logos, and download generated QR codes in various formats. The application includes error correction levels and size options for optimal scanning reliability across different devices."
+      ],
+      "year": "2024",
+      "preview": "https://yourqr-generator.vercel.app",
+      "code": "https://github.com/kushwahaPrashant24/QR-Generator",
+     "thumbnail": "/image/setup.jpg",
+      "images": [
+      
+      ],
+      "tech": [
+        "React",
+        "JavaScript",
+        "QR Code API",
+        "HTML5",
+        "CSS3",
+        "Tailwind CSS"
+      ],
+      "slug": "qr-generator",
+      "category": [1]
+    },
+    {
+      "show": true,
+      "title": "Simon Game",
+      "desc": [
+        "A classic Simon memory game built with React and JavaScript, challenging players to repeat increasingly complex sequences of colors and sounds. Features multiple difficulty levels and score tracking.",
+        "Includes sound effects for each color, progressive difficulty, and strict mode options. The game demonstrates event handling, state management, and timing functions in React while providing an engaging user experience."
+      ],
+      "year": "2024",
+      "preview": "https://yoursimon-game.vercel.app",
+      "code": "https://github.com/yourusername/simon-game",
+     "thumbnail": "/image/setup.jpg",
+      "images": [
+       
+      ],
+      "tech": [
+        "React",
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "Game Development",
+        "State Management"
+      ],
+      "slug": "simon-game",
+      "category": [1, 9]
+    },
+    {
+      "show": true,
+      "title": "Todo List Application",
+      "desc": [
+        "A feature-rich todo list application with task management, categories, due dates, and local storage persistence. Built to demonstrate CRUD operations and state management in React.",
+        "Includes features like task filtering, priority levels, dark/light theme, and responsive design. Users can add, edit, delete, and mark tasks as complete while maintaining data between sessions."
+      ],
+      "year": "2024",
+      "preview": "https://yourtodo-app.vercel.app",
+      "code": "https://github.com/yourusername/todo-app",
+      "thumbnail": "/image/setup.jpg",
+      "images": [
+       
+      ],
+      "tech": [
+        "React",
+        "JavaScript",
+        "Local Storage",
+        "CSS3",
+        "CRUD Operations",
+        "State Management"
+      ],
+      "slug": "todo-app",
+      "category": [1]
+    },
+    {
+      "show": true,
+      "title": "Keeper Notes App",
+      "desc": [
+        "A Google Keep-inspired notes application built with React, featuring rich text notes, color coding, and organizational features. Demonstrates component-based architecture and modern React patterns.",
+        "Includes note creation, editing, deletion, search functionality, and categorization. Features a clean, material-design inspired interface with drag-and-drop capabilities and responsive layout for all devices."
+      ],
+      "year": "2024",
+      "preview": "https://yourkeeper-app.vercel.app",
+      "code": "https://github.com/yourusername/keeper-app",
+     "thumbnail": "/image/setup.jpg",
+      "images": [
+     
+      ],
+      "tech": [
+        "React",
+        "JavaScript",
+        "Material UI",
+        "CSS3",
+        "Component Architecture",
+        "State Management"
+      ],
+      "slug": "keeper-app",
+      "category": [1]
+    },
+    {
+      "show": true,
+      "title": "Dice Game",
+      "desc": [
+        "An interactive dice game built with vanilla JavaScript and React versions, showcasing DOM manipulation and React state management side by side. Players roll dice to achieve target scores with risk-reward mechanics.",
+        "Features two versions: pure JavaScript for fundamental DOM operations and React version demonstrating component state and hooks. Includes game rules, score tracking, and responsive design with smooth animations."
+      ],
+      "year": "2024",
+      "preview": "https://yourdice-game.vercel.app",
+      "code": "https://github.com/yourusername/dice-game",
+   "thumbnail": "/image/setup.jpg",
+      "images": [
+     
+      ],
+      "tech": [
+        "React",
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "DOM Manipulation",
+        "Game Logic"
+      ],
+      "slug": "dice-game",
+      "category": [1, 9]
+    }
+  ]
+}
